@@ -1,0 +1,14 @@
+# control
+K_LEFT - move left
+K_RIGHT - move right
+K_UP - rotate
+K_DOWN - speedup
+
+# score
+1 row - 50 points
+2 rows - 100 points
+3 rows - 500 points
+4 rows - 1000 points
+
+# levels
+every 10 completed rows = level up
